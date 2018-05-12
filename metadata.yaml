@@ -1,0 +1,38 @@
+_repo: The-Country-Beyond--A-Romance-of-the-Wilderness_29406
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Louderback, Walt
+    alias: Louderback, Walter
+    gutenberg_agent_id: '33504'
+    url: http://www.gutenberg.org/2009/agents/33504
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Curwood, James Oliver
+    birthdate: 1878
+    deathdate: 1927
+    gutenberg_agent_id: '1487'
+    url: http://www.gutenberg.org/2009/agents/1487
+    wikipedia: http://en.wikipedia.org/wiki/James_Oliver_Curwood
+description: Title; Contents; The Country Beyond; Chapter I; Chapter II; Chapter III;
+  Chapter IV; Chapter V; Chapter VI; Chapter VII; Chapter VIII; Chapter IX; Chapter
+  X; Chapter XI; Chapter XII; Chapter XIII; Chapter XIV; Chapter XV; Chapter XVI;
+  Chapter XVII; Chapter XVIII; Chapter XIX; Chapter XX; Chapter XXI; Chapter XXII;
+  Chapter XXIII
+gutenberg_issued: '2009-07-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29406'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Wilderness areas -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Western stories'
+title: 'The Country Beyond: A Romance of the Wilderness'
+url: http://www.gutenberg.org/ebooks/29406
